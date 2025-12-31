@@ -2,7 +2,9 @@
 
 ## Video Demo
 
-(Add 2–3 minute demo video link here)
+## Video Demo
+
+[Video Demo](https://www.youtube.com/watch?v=G7tBk5AZIUI)
 
 ---
 
