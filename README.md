@@ -2,8 +2,6 @@
 
 ## Video Demo
 
-## Video Demo
-
 [Video Demo](https://www.youtube.com/watch?v=G7tBk5AZIUI)
 
 ---
